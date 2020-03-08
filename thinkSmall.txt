@@ -1,0 +1,7 @@
+Think small  Note that the robot tour counter examples I presented boiled
+down to six points or less, and the scheduling counter-examples to only three
+intervals. This is indicative of the fact that when algorithms fail, there is
+usually a very simple example on which they fail. Amateur algorists tend
+to draw a big messy instance and then stare at it helplessly. The pros look
+carefully at several small examples, because they are easier to verify and
+reason about.

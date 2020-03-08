@@ -1,0 +1,2 @@
+Simplicity  Good counter examples have all unnecessary details boiled away.
+They make clear exactly why the proposed algorithm fails. Once a counterexample has been found, it is worth simplifying it down to its essence. For example, the counter example of  could be made simpler and better by reducing the number of overlapped segments from four to two.
